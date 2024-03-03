@@ -7,7 +7,16 @@ Jazzy deterministic identicons for a more entertaining future.
 
 ---
 
+```shell
+
 npm i jazz-avatar -S
+
+# or 
+
+yarn add jazz-avatar
+
+```
+
 
 
 ## Usage
