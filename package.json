@@ -12,13 +12,6 @@
     },
     "homepage": "https://github.com/epldlnwynn/jazz-avatar#readme",
     "main": "index.js",
-    "files": [
-        "LICENSE",
-        "README.md",
-        "lib/*.ts",
-        "*.d.ts",
-        "*.js"
-    ],
     "license": "ISC",
     "private": false,
     "publishConfig": {
