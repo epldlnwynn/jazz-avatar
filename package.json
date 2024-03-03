@@ -1,6 +1,6 @@
 {
     "name": "jazz-avatar",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Jazzy deterministic identicons for a more entertaining future.",
     "author": "epldlnwynn",
     "bugs": {
@@ -12,6 +12,14 @@
     },
     "homepage": "https://github.com/epldlnwynn/jazz-avatar#readme",
     "main": "index.js",
+    "files": [
+        "LICENSE",
+        "README.md",
+        "example.png",
+        "lib/*.ts",
+        "*.d.ts",
+        "*.js"
+    ],
     "license": "ISC",
     "private": false,
     "publishConfig": {
