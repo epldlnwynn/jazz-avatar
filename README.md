@@ -24,22 +24,22 @@ yarn add jazz-avatar
 --- 
 
 ```typescript
-import jszzAvatar from "jszz-avatar";
+import jazzAvatar from "jazz-avatar";
 
 
 // 使用base64方式
-const base64 = jszzAvatar.getSvgBase64(100, seed || 0)
+const base64 = jazzAvatar.getSvgBase64(100, seed || 0)
 <img src={base64} />
 
 
 // 创建 svg 
-const svgEl = jszzAvatar.getSvg(100, seed || 0)
+const svgEl = jazzAvatar.getSvg(100, seed || 0)
 document.body.appendChild(svgEl)
 
 
 // React 节点
 export default ({ size, seed}: {size:number; seed?: number}) => {
-    return jszzAvatar.getSvgEl(size, seed || 0)
+    return jazzAvatar.getSvgEl(size, seed || 0)
 }
 
 
