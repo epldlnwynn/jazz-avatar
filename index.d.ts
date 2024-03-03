@@ -5,9 +5,6 @@
 
 import React from "react";
 
-export default interface JazzAvatar {
-    getSvg(size: number, seed: number): SVGSVGElement;
-    getSvgBase64(size: number, seed: number): string;
-    getSvgEl(): React.ReactSVGElement
-}
-
+export function getSvg(size: number, seed: number): SVGSVGElement;
+export function getSvgBase64(size: number, seed: number): string;
+export function getSvgEl(): React.ReactSVGElement;
