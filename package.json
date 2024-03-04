@@ -3,7 +3,7 @@
     "version": "1.0.5",
     "description": "Jazzy deterministic identicons for a more entertaining future.",
     "author": "epldlnwynn",
-    "keywords": ["avatar", "头像", "图标头像", "卡哇伊", "jazzy"],
+    "keywords": ["avatar", "ui-avatar", "头像", "图标头像", "卡哇伊", "jazzy", "color avatar", "web3", "canvas"],
     "bugs": {
         "url": "https://github.com/epldlnwynn/jazz-avatar/issues"
     },
